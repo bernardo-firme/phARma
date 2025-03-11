@@ -1,9 +1,9 @@
 {
   "name": "pharma",
   "private": false,
+  "homepage": "https://bernardo-firme.github.io/phARma/",
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://bernardo-firme.github.io/phARma/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
