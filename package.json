@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://bernardo-firme.github.io/phARma",
+  "homepage": "https://bernardo-firme.github.io/phARma/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
